@@ -1,9 +1,9 @@
 {
-  "name": "ms-care-connect",
+  "name": "demoapp",
   "version": "1.0.0",
-  "description": "MS Care Connect Admin Dashboard",
+  "description": "demo app",
   "main": "index.js",
-  "author": "jose varanam",
+  "author": "demo app",
   "license": "ISC",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
